@@ -23,7 +23,7 @@ body {
     background:rgb(3, 18, 48);
 }
 
-form h2 {
+form input {
     width: 100%;
     height: 120px;
     border: none;
